@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new blog
+title: A new blog...
 permalink: /introduction
 ---
 
