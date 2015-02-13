@@ -1,8 +1,7 @@
 ---
-layout: Post
-category: LAPIS
-tagline: "Digital Typesetting"
-tags : [technology, form and content, publishing, nerdy]
+layout: post
+title: The person who invented digital typesetting.
+permalink: /TeX
 ---
 
 I was unsure how to go about this weeks blog. The lecture covered a broad range of potential topics making it difficult to decide how to draw all of these different areas together. What I have instead decided to do is pursue the topic from a slightly different (perhaps super nerdy!) angle.
