@@ -38,7 +38,7 @@ A particularly interesting resource on why typography is important is an online 
 
 One of the main opportunities software like LaTeX allows is the ability for very professional looking self-publishing. One of the problem with a lot of self-published material (and unfortunately often professionally published material) is that the presentation can be quite poor. This is going to be especially likely to happen if Word is used to produce a pdf which is then used as a basis for the book. Although some might argue that content should be able to stand on its own, bad formatting can be incredibly distracting. With a piece of software like LaTeX or its derivatives its very easy to present your content in a pleasing way without much energy or without an in-depth understanding of typesetting. A [post](http://www.thebookdesigner.com/2010/01/the-trouble-with-word-processors/) on the Book Designer website outlines the importance of this for self-publishers.
 
-I will try to write a separate post on some ways to make use of LaTeX and other approaches to writing documents which focus on the content (however dubious that may!) and not allow technology to worry about the content. In the meantime here are some potential resources if you are interested:
+I will try to write a separate post on some ways to make use of LaTeX and other approaches to writing documents which focus on the content (however dubious that may!) and instead allow technology to worry about formating. In the meantime here are some potential resources if you are interested:
 
 * [Getting to Grips with LaTeX](http://www.andy-roberts.net/writing/latex/benefits)
 
