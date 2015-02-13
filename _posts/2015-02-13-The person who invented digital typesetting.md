@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The person who invented digital typesetting.
+title: The person who invented digital typesetting
 permalink: /TeX
 ---
 
