@@ -24,11 +24,6 @@ The expansion of censorship is often associated closely with the rise of Stalin,
 
 The special role that literature was intended to play in Soviet society helps explain the reason why so much effort went into both producing and making available books that promoted the official ideology of the Soviet union whilst also constraining the spread of ideas that did not fit with this official ideology. The types of books promoted by the Soviet state was not limited to one genre, although there was a clear preference for certain styles of writing and particular forms of art. One example is the prevalence of children's books during the early Soviet period.[^4] These books provided an avenue for artist expression which was less subject to censorship.
 
-![El Lissitzky](http://www.ibiblio.org/eldritch/el/pro02.html)
-
-
-![El Lissitzky]({{davanstrien.github.io}}/images/pro.jpg)
-
 Alongside the potential escapes into less censored areas of literature, dissident forms of publishing existed. This dissident publishing included  religious, nationalist and literary content but most of the focus was on political themes. There were a variety of methods of producing this content; hand and type copying, or the use of professional or semi-professional printing presses. Regardless of the methods used much of the content had certain presentational features. Covers were often plane, or imitating different content and the type itself often had mistakes and was of poor quality. In this way the content and the form of texts once again come together.
 
 So far the focus has been on explicit censorship by the state and potential avenues people sought to circumvent this censorship. The next section will turn to focus on other ways in which the transfer of information can become limited.
