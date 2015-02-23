@@ -26,6 +26,9 @@ The special role that literature was intended to play in Soviet society helps ex
 
 ![El Lissitzky](http://www.ibiblio.org/eldritch/el/pro02.html)
 
+
+![El Lissitzky]({{davanstrien.hithub.io}}/images/pro.jpg)
+
 Alongside the potential escapes into less censored areas of literature, dissident forms of publishing existed. This dissident publishing included  religious, nationalist and literary content but most of the focus was on political themes. There were a variety of methods of producing this content; hand and type copying, or the use of professional or semi-professional printing presses. Regardless of the methods used much of the content had certain presentational features. Covers were often plane, or imitating different content and the type itself often had mistakes and was of poor quality. In this way the content and the form of texts once again come together.
 
 So far the focus has been on explicit censorship by the state and potential avenues people sought to circumvent this censorship. The next section will turn to focus on other ways in which the transfer of information can become limited.
