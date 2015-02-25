@@ -31,13 +31,23 @@ Although the above provide some exemptions, there can be difficulty interpreting
 ## Creative Commons
 
 
-## Gratis or Libre (free beer or free speach)
-Whilst the open access movement has partially been about ensuring free access to published materials, some have argued it should go beyond that. Although an article maybe open access in the sense that it is free to access it, beyond this it can have the usual copyright restrictions associated with 'traditionally' published articles. Other articles published in an open access form might have a licence that allows for a variety of different types of use or reuse. This has led to the characterisation of two flavours of open access Gratis and Libre. The primary difference between the two is interms of what can be done with content of that work. Gratis OA is free as in free beer, Libre is free as in free speech. One can be freely accessed the other freely (to different extents) used and reused.
+## Gratis or Libre (free beer or free speech)
+Whilst the open access movement has partially been about ensuring free access to published materials, some have argued it should go beyond that. Although an article maybe open access in the sense that it is free to access it, beyond this it can have the usual copyright restrictions associated with 'traditionally' published articles. Other articles published in an open access form might have a licence that allows for a variety of different types of use or reuse. This has led to the characterisation of two flavours of open access Gratis and Libre. The primary difference between the two is in terms of what can be done with content of that work. Gratis OA is free as in free beer, Libre is free as in free speech. One can be freely accessed the other freely (to different degrees) shared, modified and reused. The question then asked is whether this distinction is important or not?
 
 ### Is this distinction important
+Some argue that making distinctions between different types of open access is unhelpful, and the focus should be aimed towards making content free in terms of price, rather than adding an extra layer of compliance to be 'really' open access. This issue can be looked at from a number of different ways. 
 
-funders
+One is simply to do with requirements associated with funding for research. The Wellcome Trust for example
+> 'encourages - and where it pays an open access fee, requires - authors and publishers to licence research papers using the Creative Commons Attribution licence (CC-BY)** so they may be freely copied and re-used (for example, for text- and data-mining purposes or creating a translation), provided that such uses are fully attributed.' [^2] 
+
+Research Council UK has a similar policy for research it funds. Some of the reasons given are outlined in the above quote. A particularly important one being the ability to translate an article. One of the aims of open access is to increase access to research outputs for the developing world and limiting translation clearly limits this aim. The ability to text mine an individual journal article might seem trivial but in the long run copyright restrictions could hinder the use of research created today. Copyright lasts a long time and research with an open licence, clearly indicated through metadata, removes legal worries and allows researchers to focus on the research itself. The potentials for data mining huge sways of medical literature are yet to be fully realised. Systematic reviews take a long time, and a great deal of expertise, creating 
+
+
 research use
+translation
+sustainability 
+
 why people may not want to make articles libre
 
 [^1]: https://www.gov.uk/exceptions-to-copyright
+[^2]: http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm
