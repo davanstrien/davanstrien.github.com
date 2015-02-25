@@ -37,7 +37,7 @@ By providing a variety of licences, creative commons can spell out more clearly 
 ## Gratis or Libre (free beer or free speech)
 Whilst the open access movement has partially been about ensuring free access to published materials, some have argued it should go beyond that. Although an article maybe open access in the sense that it is free to access it, beyond this it can have the usual copyright restrictions associated with 'traditionally' published articles. Other articles published in an open access form might have a licence that allows for a variety of different types of use or reuse. This has led to the characterisation of two flavours of open access Gratis and Libre. The primary difference between the two is in terms of what can be done with content of that work. Gratis OA is free as in free beer, Libre is free as in free speech. One can be freely accessed the other freely (to different degrees) shared, modified and reused. The question then asked is whether this distinction is important or not?
 
-### Is this distinction important
+### Is this distinction important?
 Some argue that making distinctions between different types of open access is unhelpful, and the focus should be aimed towards making content free in terms of price, rather than adding an extra layer of compliance to be 'really' open access. This issue can be looked at from a number of different ways.
 
 One is simply to do with requirements associated with funding for research. The Wellcome Trust for example
