@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free beer, or free speech
-permalink: /free-beer-or-free-speech
+permalink: /free-beer-or-free-speech?
 ---
 
 In our most recent LAPIS lecture we discussed the development of the book trade, intellectual property and piracy. Instead the history of the book trade, which is covered in one of [classmates blogs](http://harkirankalsi1.blogspot.co.uk/2015/02/session-4-history-of-book-trade.html), I thought I would limit my focus to some of the potential difficulties caused by intellectual property rights, especially in the context of teaching and research and discuss potential solutions which have been proposed.
