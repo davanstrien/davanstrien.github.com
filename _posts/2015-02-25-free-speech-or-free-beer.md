@@ -41,7 +41,8 @@ Whilst the open access movement has partially been about ensuring free access to
 Some argue that making distinctions between different types of open access is unhelpful, and the focus should be aimed towards making content free in terms of price, rather than adding an extra layer of compliance to be 'really' open access. This issue can be looked at from a number of different ways.
 
 One is simply to do with requirements associated with funding for research. The Wellcome Trust for example
-> 'encourages - and where it pays an open access fee, requires - authors and publishers to licence research papers using the Creative Commons Attribution licence (CC-BY)** so they may be freely copied and re-used (for example, for text- and data-mining purposes or creating a translation), provided that such uses are fully attributed.' [^3]
+
+> encourages - and where it pays an open access fee, requires - authors and publishers to licence research papers using the Creative Commons Attribution licence (CC-BY)** so they may be freely copied and re-used (for example, for text- and data-mining purposes or creating a translation), provided that such uses are fully attributed. [^3]
 
 Research Council UK has a similar policy for research it funds. Some of the reasons given are outlined in the above quote. A particularly important one being the ability to translate an article. One of the aims of open access is to increase access to research outputs for the developing world and limiting translation clearly limits this aim.
 
