@@ -1,0 +1,24 @@
+---
+layout: post
+title: The Road to open access
+permalink:
+---
+
+In week 7, our lecture discussion turned to open access. We had contributions form Marin Eve on the role open access could play in the humanities. Within the open access movement there has been a perceived emphasis on open access for the sciences. There are a number of reasons for this. Some science disciplines have implemented some form of open access for a long time. [arXiv](http://arxiv.org/) began hosting pre-prints in 1991. These open access systems have operated alongside more informal systems for disturbing papers. In Mathematics it has been very common for authors to list all of their papers with links, of either pre-prints or published versions, sometimes without the permission of journal publishers 
+
+
+## The different models for open access
+http://blogs.library.duke.edu/scholcomm/2015/02/10/paying-bills/
+
+With mandates for open access being announced on what seems like a daily basis it seem inevitable that open access is going to increasingly become the standard expectation for academic publishing. However, this in itself does not mean the open access movement has been successful. In some ways talking of an open access movement is redundant. There are many different people and organisations with an interest in open access who have very different, often mutually exclusive aims and intentions with pursuing open access.  The end aim of open access can vary fairly dramatically between different advocates of open access. 
+
+The different models of providing open access are not just about different ideological standpoints. Different models for providing open access in a large part are responding to the economic realities of publishing. In this post I will try to discuss some of the different models and the economic factors behind them. 
+
+### Hybrid
+
+
+
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="davanstiren.github.io" property="cc:attributionName" rel="cc:attributionURL">Daniel van Strien</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
