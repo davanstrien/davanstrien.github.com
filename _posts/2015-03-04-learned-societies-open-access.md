@@ -24,11 +24,11 @@ In the short run one of the things learned societies could consider is charging 
 
 In the course of exploring article processing charges for publishing research it may make sense for learned societies to consider the tools they use for publishing. If they currently use a commercial publisher they may explore the option of switching to an open access publisher which has lower costs for publishing or adopting open source publishing platforms. A switch to open access publishing can be viewed as an opportunity to explore new approaches to publishing. Using blog posts, social media, podcasts etc. could allow some societies to engage with members and new members in new ways. For some this could result in increased membership or new opportunities beyond the traditional approaches of learned societies.
 
-#### Membership benefits
+#### Membership benefits
 
 Rethinking the benefits associated with membership will be an important part of the shift to open access. It is quite common for people to become members for free journal subscriptions. A shift to open access might result in cancelation of membership. This is a problem societies can respond to in many different ways; tiered membership rates, new benefits, broadening membership appeal etc. What all of these require is sustained thought and discussion with current members about what they want to see.
 
-### Potential benefits of open access for learned societies
+### Potential benefits of open access for learned societies
 
 A Taylor and Francis/ Association of Learned and Professional Society Publishers Survey of Learned Societies [survey](http://editorresources.taylorandfrancisgroup.com/wp-content/uploads/2014/07/2014-Taylor-Francis-Society-Survey.pdf) of learned societies about open access reveals some of the potential worries. Around 16% of respondants viewed open access as a 'major threat' and 25% as a 'minor threat'. These concerns should not be dismissed. For some societies open access does pose real difficulties. However, the realities of funding for publishing appear to be moving more and more towards open access. Mandates are becoming increasingly common. Open access will therefore be something learned societies will have to respond to. For learned societies it could be approached as an opportunity to reassess current approaches, change publishing models, re-engage members and re-think what the aims and goals of the society are and providing the potential for engaging more people and increasing impact. This is of course easier said then done but is something that societies will have to begin thinking about and having discussions around.
 
