@@ -1,8 +1,7 @@
 ---
 layout: page
 title: CV
-permalink:/CV/ 
-description: CV
+permalink: /CV/
 ---
 
 You can employment history experience and other information at my Linkedin [page](https://uk.linkedin.com/in/danielvanstrien)
