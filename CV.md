@@ -6,9 +6,7 @@ permalink: /CV/
 
 You can employment history experience and other information at my Linkedin [page](https://uk.linkedin.com/in/danielvanstrien)
 
-## CPD
-
-This is a non-comprehensive list of CPD type activities I have undertaken recently. 
+Below is a non comprehensive list of my publications, events I was spoken or participated in and courses I have taken. 
 
 ## Publications
 Daniel van Strien, "An Introduction to Version Control Using GitHub Desktop," Programming Historian (17 June 2016),[ http://programminghistorian.org/lessons/getting-started-with-github-desktop](http://programminghistorian.org/lessons/getting-started-with-github-desktop) 
