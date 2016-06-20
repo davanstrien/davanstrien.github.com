@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-You can employment history experience and other information at my Linkedin [page](https://uk.linkedin.com/in/danielvanstrien)
+You can find employment history experience and other information at my Linkedin [page](https://uk.linkedin.com/in/danielvanstrien)
 
 Below is a non comprehensive list of my publications, events I have spoken at, or participated in and courses I have taken. 
 
