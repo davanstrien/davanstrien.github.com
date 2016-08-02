@@ -10,7 +10,7 @@ Below is a non comprehensive list of my publications, events I have spoken at, o
 
 ## Publications
 
-Daniel van Strien, 'The Transition to Open Access: to What Extent Can Research Funders Influence the Market for APCs?', City University Master Dissertation (January 2016), [https://github.com/davanstrien/open-access-funding-policies/blob/master/disseration]() 
+Daniel van Strien, 'The Transition to Open Access: to What Extent Can Research Funders Influence the Market for APCs?', City University Master Dissertation (January 2016), [https://github.com/davanstrien/open-access-funding-policies/blob/master/disseration.pdf](https://github.com/davanstrien/open-access-funding-policies/blob/master/disseration.pdf) 
 
 Daniel van Strien, "An Introduction to Version Control Using GitHub Desktop," Programming Historian (17 June 2016),[ http://programminghistorian.org/lessons/getting-started-with-github-desktop](http://programminghistorian.org/lessons/getting-started-with-github-desktop) 
 
