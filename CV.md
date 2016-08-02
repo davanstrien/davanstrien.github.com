@@ -9,6 +9,9 @@ You can employment history experience and other information at my Linkedin [page
 Below is a non comprehensive list of my publications, events I was spoken or participated in and courses I have taken. 
 
 ## Publications
+
+Daniel van Strien, 'The Transition to Open Access: to What Extent Can Research Funders Influence the Market for APCs?', City University Master Disseration (January 2016), [https://github.com/davanstrien/open-access-funding-policies/blob/master/disseration.pdf]() 
+
 Daniel van Strien, "An Introduction to Version Control Using GitHub Desktop," Programming Historian (17 June 2016),[ http://programminghistorian.org/lessons/getting-started-with-github-desktop](http://programminghistorian.org/lessons/getting-started-with-github-desktop) 
 
 ## Presentations and panel discussions
