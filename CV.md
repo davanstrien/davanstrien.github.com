@@ -4,9 +4,9 @@ title: CV
 permalink: /CV/
 ---
 
-You can employment history experience and other information at my Linkedin [page](https://uk.linkedin.com/in/danielvanstrien)
+You can find employment history experience and other information at my Linkedin [page](https://uk.linkedin.com/in/danielvanstrien)
 
-Below is a non comprehensive list of my publications, events I was spoken or participated in and courses I have taken. 
+Below is a non comprehensive list of my publications, events I have spoken at, or participated in and courses I have taken. 
 
 ## Publications
 
@@ -27,9 +27,9 @@ Daniel van Strien, "An Introduction to Version Control Using GitHub Desktop," Pr
 ## Competitions
 09/2015 - [British Library Labs](http://labs.bl.uk/Teaching+the+library+of+the+future+engaging+researchers+in+new+approaches+to+utilising+digital+collections.) Submitted a proposal for the 2015 British Library Labs competition. 
 
-## Training events (attended as participant)
+## 2016 Training events (attended as participant)
 
-31/05/2016 O'Reilly Webcast - Introduction to the SciPy Ecosystem
+31/05/2016 -  O'Reilly Webcast - Introduction to the SciPy Ecosystem
 
 01/06/2016 - Lib Tech Meet-Up (CILIP London Member Network)
 
